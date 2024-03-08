@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To install dependencies run:  npm i @alan-ai/alan-sdk-web @material-ui/core classmates words to numbers --legacy-peer-deps
 
 ## Available Scripts
 
